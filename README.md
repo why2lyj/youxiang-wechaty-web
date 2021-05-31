@@ -1,3 +1,6 @@
+ [![Python 3.7](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
+ [![Page Views Count](https://badges.toozhao.com/badges/01F7078N5HEMCPK61RDHCHBRWR/green.svg)](https://badges.toozhao.com/badges/01F7078N5HEMCPK61RDHCHBRWR/green.svg)
+ 
 # youxiang-wechaty-web
 
 此版本可直接登录 Web 微信，无视 Web 微信无法登录的情况。
